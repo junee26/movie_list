@@ -1,0 +1,28 @@
+.headline {
+    color: brown;
+}
+p span:nth-child(1) { 
+    color: blue;
+ }
+ p span:nth-child(2) { 
+    color: red;
+ }
+ p span:nth-child(3) { 
+    color: green;
+ }
+ .flower{
+    display: block;
+        margin: 0 auto;
+ }
+
+ .text-container {
+
+ }
+ .about-me{
+   display: inline-block;
+   height: 100%;
+   vertical-align: top;
+   margin-top: 30px;
+   margin-left: ;
+
+ }
